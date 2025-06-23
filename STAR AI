@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <title>STAR AI</title>
+  <style>
+    body {
+      background-color: #1e1e1e;
+      color: #00d8ff;
+      font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      flex-direction: column;
+    }
+    h1 {
+      font-size: 4rem;
+      margin: 0;
+    }
+    p {
+      font-size: 1.5rem;
+      color: #ccc;
+      margin-top: 10px;
+    }
+  </style>
+</head>
+<body>
+  <h1>STAR AI'ye Hoş Geldiniz!</h1>
+  <p>Size yardımcı olmaya hazırız.</p>
+</body>
+</html>
